@@ -1,0 +1,11 @@
+{
+    "name": "AboutPage",
+    "alias": "aboutpage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AboutPage\\Providers\\AboutPageServiceProvider"
+    ],
+    "files": []
+}

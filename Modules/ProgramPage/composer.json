@@ -1,0 +1,23 @@
+{
+    "name": "rengganikaryasemesta/programpage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Renggani Karya Semesta",
+            "email": "rengganigroup@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ProgramPage\\": ""
+        }
+    }
+}

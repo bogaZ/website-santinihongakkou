@@ -1,0 +1,104 @@
+/* Kontainer utama Tinymce */
+.mce-container {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+
+    /* Judul */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-weight: bold;
+    }
+
+    /* Teks tebal */
+    strong {
+        font-weight: bold;
+    }
+
+    /* Teks miring */
+    em {
+        font-style: italic;
+    }
+
+    /* Teks garis bawah */
+    u {
+        text-decoration: underline;
+    }
+
+    /* Daftar tak berurutan */
+    ul {
+        list-style-type: disc;
+        margin-left: 30px;
+    }
+
+    /* Daftar berurutan */
+    ol {
+        list-style-type: decimal;
+        margin-left: 30px;
+    }
+
+    /* Tautan hyperlink */
+    a {
+        color: #0077cc;
+        text-decoration: underline;
+    }
+
+    /* Gambar */
+    img {
+        max-width: 100%;
+        height: auto;
+        border: 1px solid #ddd;
+    }
+
+    /* Kutipan */
+    blockquote {
+        margin: 10px 0;
+        padding: 10px;
+        border-left: 2px solid #333;
+        background-color: #f9f9f9;
+    }
+
+    /* Kode sumber */
+    code {
+        font-family: "Courier New", monospace;
+        background-color: #f5f5f5;
+        padding: 2px 4px;
+        border: 1px solid #ddd;
+    }
+
+    /* Daftar definisi */
+    dl {
+        margin: 10px 0;
+    }
+
+    /* Daftar definisi - judul */
+    dt {
+        font-weight: bold;
+    }
+
+    /* Daftar definisi - deskripsi */
+    dd {
+        margin-left: 20px;
+    }
+
+    /* Tabel */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid #ddd;
+    }
+
+    /* Sel header tabel */
+    th {
+        background-color: #f2f2f2;
+    }
+
+    /* Sel tabel */
+    td {
+        border: 1px solid #ddd;
+        padding: 5px;
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ProgramPage",
+    "alias": "programpage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProgramPage\\Providers\\ProgramPageServiceProvider"
+    ],
+    "files": []
+}
